@@ -1,0 +1,15 @@
+- file: content/front_page
+  numbered: false
+
+- part: Setup
+  chapters:
+  - file: content/001_setup/git
+  - file: content/001_setup/conda
+  - file: content/001_setup/docker
+
+- part: Python practicals
+  chapters:
+  - file: content/002_basics/labs/01_basics
+  - file: content/002_basics/labs/02_basics
+
+
