@@ -1,8 +1,23 @@
 # Debug challenge 1
 
-The code below has a number of bugs.  
+```{admonition} Challenge
 
+The simple code listing below contains a number of bugs.  
 Can you fix the code and help it to run?
+```
+**Hints:**
+* Use a Python IDE such as`spyder` or `Visual Studio Code` it will help you debug.
+* Read the Python interpreter output.  
+* The errors reported can look confusing at first, but read them carefully and they will point you to the lines of code with problems.
+* The `Spyder` IDE may give you some hints about formatting errors
+* It can be useful to use `print()` to display intermediate calculations and variable values.
+* Remember that `Spyder` has a variable viewer where you can look at the value of all variables created.  
+* There might be multiple bugs!  When you fix one and try to run the code you might find another!
+
+Have a go **yourself** and then watch our approach: 
+
+* https://www.youtube.com/watch?v=XCuD59bYKx0
+
 
 ```python
 

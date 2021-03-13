@@ -3,6 +3,7 @@
 
 - part: Setup
   chapters:
+  - file: content/001_setup/install
   - file: content/001_setup/git
   - file: content/001_setup/conda
 

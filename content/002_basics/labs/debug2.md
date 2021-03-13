@@ -8,13 +8,14 @@ very simple by including a number of ways to sort a list.
 Under the hood the sorting routines are all variations on loops 
 where values in the array are swapped until it is in ascending order.
 
+```{admonition} Challenge
+
 The function below implements **insertion sort**.  Insertion sort is an 
 efficient algorithm for sorting a list made of two loops.  An outer loop
 that iterates forward through the list and an inner list that iterates backwards.
 
 The code below is not running.  Can you debug it?
-
-Good luck!
+```
 
 ```python
 
