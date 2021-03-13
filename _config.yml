@@ -3,6 +3,7 @@ title: Introduction to Python
 author: Thomas Monks
 #logo: images/logo.png
 email: t.m.w.monks@exeter.ac.uk
+copyright: "2021"  # Copyright year to be placed in the footer
 description: >- # this means to ignore newlines until "baseurl:"
   Learning materials to support candidates for MSc Health Data Science. Exeter Medical School.
 
