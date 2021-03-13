@@ -1,14 +1,11 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Debug Exercise Python Lab 1
+# Debug challenge 1
 
 The code below has a number of bugs.  
 
 Can you fix the code and help it to run?
 
+```python
 
-"""
 
 def split_word_in_two(to_split):
 """
@@ -45,3 +42,4 @@ print('Part 1 = {0}; Part 2 = {1}'.format(result[0], result[1]))
 if __name__ == "__main__":
    main()
 
+```

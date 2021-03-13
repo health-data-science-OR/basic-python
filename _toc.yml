@@ -14,7 +14,9 @@
 - part: Practicals
   chapters:
   - file: content/002_basics/labs/01_basics
+  - file: content/002_basics/labs/debug1
   - file: content/002_basics/labs/02_basics
+  - file: content/002_basics/labs/debug2
 
 - part: Mock tests
   chapters:
