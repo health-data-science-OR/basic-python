@@ -5,11 +5,19 @@
   chapters:
   - file: content/001_setup/git
   - file: content/001_setup/conda
-  - file: content/001_setup/docker
 
-- part: Python practicals
+- part: Lecture notes
+  chapters:
+  - file: content/002_basics/lectures/Lecture1
+  - file: content/002_basics/lectures/Lecture2
+
+- part: Practicals
   chapters:
   - file: content/002_basics/labs/01_basics
   - file: content/002_basics/labs/02_basics
+
+- part: Mock tests
+  chapters:
+  - file: content/003_mock_tests/01_example_entry_test
 
 
